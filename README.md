@@ -109,21 +109,6 @@ These insights help identify periods of peak user engagement.
 
 ---
 
-## Key Data Science Skills Demonstrated
-
-- Data wrangling and dataset merging
-- Behavioral funnel analysis
-- Conversion rate computation
-- Feature engineering using timestamps
-- Exploratory data analysis
-- Visualization of behavioral metrics
-- Structured analytical workflow
-
----
-
-
----
-
 ## Potential Extensions
 Future improvements could include:
 
