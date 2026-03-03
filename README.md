@@ -136,7 +136,8 @@ Future improvements could include:
 ---
 
 ## Author
-This project was created to demonstrate practical skills in **data analysis, statistical reasoning, and behavioral analytics using Python**.
+Paul Puccinelli   
+Statistics & Economics, UC Berkeley
 
 
 
